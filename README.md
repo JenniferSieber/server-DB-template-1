@@ -21,5 +21,19 @@ json web token link for docs: https://www.npmjs.com/package/jsonwebtoken
 npm install --save cookie-parser
 
 cookie parser link for docs: https://www.npmjs.com/package/cookie-parser
+#######
+.env file Example not seen:
+PORT=3000
+
+DB_URL=mongodb+srv://your-url-here
+
+SECRET=example!random!string!equals!D3LFJ54557LVR55667ERECUSSU
+
+.gitignore file Example not seen:
+
+.DS_Store
+
+node_modules
+
 
 
