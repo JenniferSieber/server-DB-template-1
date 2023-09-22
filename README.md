@@ -7,6 +7,7 @@ npm init -y
 npm install --save express mongoose dotenv nodemon
 
 npm install --save cors
+npm install --save bcrypt
 npm install --save jsonwebtoken
 npm install --save cookie-parser
 
