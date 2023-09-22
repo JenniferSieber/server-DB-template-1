@@ -9,6 +9,7 @@ npm install --save express mongoose dotenv nodemon
 
 npm install --save cors
 
+Password Encryption, WebToken and Cookie Parser:
 npm install --save bcryptjs
 
 bcryptjs npmjs link for docs:  https://www.npmjs.com/package/bcryptjs
