@@ -31,6 +31,9 @@ SECRET=example!random!string!equals!D3LFJ54557LVR55667ERECUSSU
 
 .gitignore file Example not seen:
 
+add .env file to .gitignore
+.env 
+
 .DS_Store
 
 node_modules
